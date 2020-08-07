@@ -1,0 +1,18 @@
+Requirement: Create a Chat App using ReactJS, Javascript, and NodeJS.
+
+Functionalities:
+
+* For backend express and nodeJS have been used
+
+* For frontend react has been used
+
+* It's a simple web app to send and receive mesaages
+
+* Steps to use the app:
+
+    1. clone the repository https://github.com/kunalkr789/chat_app.git
+
+    2. Run command 'npm install' in both chat_app(frontend) and server(backend) to install
+       all the dependencies
+
+    3. Run command 'npm start' to run the server
